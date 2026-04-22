@@ -20,5 +20,7 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "DogGalleryApp"
-include(":app")
+include(":app-xml")
+include(":core")
+include(":app-compose")
  
