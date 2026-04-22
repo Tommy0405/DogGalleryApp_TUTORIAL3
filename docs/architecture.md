@@ -1,4 +1,4 @@
-# 06 Architecture
+#  Architecture
 
 This project adopts a multi-module architecture to separate concerns, improve code reusability, and isolate UI paradigms.
 
