@@ -1,4 +1,4 @@
-# 09 Feature Extensions
+#  Feature Extensions
 
 This document outlines additional enhancements and UI/UX extensions built on top of the base DogGalleryApp.
 
