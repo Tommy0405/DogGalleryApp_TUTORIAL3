@@ -25,7 +25,7 @@ The extraction of logic from the original monolithic app into the shared `:core`
 
 ## 3. Updated Markdown Specifications
 The Markdown specifications in the `docs/` folder have been continually updated to reflect the architecture, decisions, and evolution of the project:
-- **`06_architecture.md`**: Outlines the multi-module approach (`:core`, `:app-xml`, `:app-compose`).
-- **`08_implementation_plan.md`**: Details the step-by-step refactoring from the original monolith.
-- **`09_feature_extensions.md`**: Documents the Compose-exclusive features (dynamic theming and micro-animations) built for the new `:app-compose` module.
+- **`architecture.md`**: Outlines the multi-module approach (`:core`, `:app-xml`, `:app-compose`).
+- **`implementation_plan.md`**: Details the step-by-step refactoring from the original monolith.
+- **`feature_extensions.md`**: Documents the Compose-exclusive features (dynamic theming and micro-animations) built for the new `:app-compose` module.
 - The rest of the documentation provides a clear overview of the app's features, screens, and API usage.
