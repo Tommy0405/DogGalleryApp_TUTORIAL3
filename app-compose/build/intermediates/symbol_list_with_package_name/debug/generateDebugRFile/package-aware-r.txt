@@ -1,0 +1,2 @@
+dam.a51560.doggalleryapp.compose
+style Theme_DogGalleryApp_Compose

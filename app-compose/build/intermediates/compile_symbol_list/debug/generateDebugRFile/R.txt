@@ -1,0 +1,1 @@
+int style Theme_DogGalleryApp_Compose 0x0
