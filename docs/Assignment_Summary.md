@@ -1,4 +1,4 @@
-# 10 Assignment Summary
+#  Assignment Summary
 
 This document addresses the final assignment requirements, summarizing the module diagram, UI contract, refactoring plan, and pointing to the updated markdown specifications.
 
